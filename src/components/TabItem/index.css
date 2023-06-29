@@ -1,0 +1,12 @@
+.button {
+  cursor: pointer;
+  margin-left: 15px;
+  background-color: transparent;
+  outline: none;
+  border-width: 0px;
+  color: #7b8794;
+  font-size: 18px;
+}
+.tab-btn {
+  color: #2563eb;
+}
